@@ -1,0 +1,16 @@
+"Id";"Designator";"Footprint";"Hoeveelheid";"Orientatie";"Leverancier en ref";
+1;"U3";"DIP-28_W15.24mm";1;"MOS6581";;;
+2;"C6";"C_Disc_D3.0mm_W1.6mm_P2.50mm";1;"10n";;;
+3;"J1";"PinHeader_1x03_P2.54mm_Vertical";1;"audio_debug";;;
+4;"R17";"R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical";1;"1k";;;
+5;"R18";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"1k";;;
+6;"C1,C2";"C_Disc_D3.0mm_W1.6mm_P2.50mm";2;"2n2";;;
+7;"U5";"DIP-8_W7.62mm";1;"LM386";;;
+8;"J3";"PinHeader_1x04_P2.54mm_Horizontal";1;"OLED_wit";;;
+9;"U1";"DIP-16_W10.16mm";1;"PCF8574A";;;
+10;"P1";"Jack_3.5mm_CUI_SJ1-3523N_Horizontal";1;"TRS_JACK";;;
+11;"C3";"CP_Radial_D4.0mm_P2.00mm";1;"250uF";;;
+12;"RV1";"Potentiometer_Bourns_3339P_Vertical";1;"Pot_10k";;;
+13;"J2";"PinHeader_1x04_P2.54mm_Horizontal";1;"debug";;;
+14;"U2";"WEMOS_D1_mini_light";1;"WeMos_D1_mini";;;
+15;"C5";"C_Disc_D3.0mm_W1.6mm_P2.50mm";1;"10µ";;;
