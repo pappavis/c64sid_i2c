@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\Users\\m.erasmus\\OneDrive - Fugro\\KiCAD\\pappavis\\c64sid_i2c\\pcb\\c64sid.kicad_sch")
-    (date "13-11-2023 15:48:36")
+    (date "13-11-2023 16:01:22")
     (tool "Eeschema 7.0.6")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
