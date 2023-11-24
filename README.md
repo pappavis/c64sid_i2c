@@ -1,5 +1,5 @@
 # c64sid_i2c
-Commodore63 SID 6851 chiptunes player  WORK-in-PROGRESS
+Commodore64 SID-chip <a href="https://ccrma.stanford.edu/~chet/projects/tech_content/6581.pdf" label="SID datasheet">6851</a> chiptunes player  WORK-in-PROGRESS
 
 <img src="https://github.com/pappavis/c64sid_i2c/blob/main/img/printplaat_schema.png?raw=true" width="70%" height="70%" label="printplaat schema">
 <br><br>
